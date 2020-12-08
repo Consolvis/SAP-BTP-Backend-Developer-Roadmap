@@ -23,7 +23,7 @@ So let's start without further ado...
 
 So this is my recommendation on how to learn backend development on the SAP Cloud Platform in 2021. I'm working on collecting good tutorials, articles and videos on the individual topics. I will add them here bit by bit.
 
-Are you of a different opinion? Can you improve the roadmap? I am happy to receive your feedback. Please either comment here, open a topic or drag a request to this GitHub repository.
+Are you of a different opinion? Can you improve the roadmap? I am happy to receive your feedback. Please either comment here, open a issue or pull request to this GitHub repository.
 
 ## Learn a Language
 
