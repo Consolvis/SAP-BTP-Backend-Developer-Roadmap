@@ -19,7 +19,7 @@ The purpose is to give you an idea of the landscape. It should guide you if you 
 
 So let's start without further ado...
 
-![SAP Business Technology Platform Backend Developer Roadmap](SAPBusinessTechnologyPlatformBackendDeveloperRoadmap2021.png)
+![SAP Business Technology Platform Backend Developer Roadmap](SAPBusinessTechnologyPlatformDeveloperRoadmap2021.png)
 
 So this is my recommendation on how to learn backend development on the SAP Business Technology Platform in 2021. I'm working on collecting good tutorials, articles and videos on the individual topics. I will add them here bit by bit.
 
