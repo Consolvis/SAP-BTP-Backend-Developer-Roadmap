@@ -7,6 +7,8 @@ Conflicting information. Confusing terms. And techniques that didn't work.
 
 I didn't know where to start or what to look at.
 
+[![YouTube - A roadmap to becoming an SAP BTP Developer in 2021](https://img.youtube.com/vi/yNRV7aeu2TE/maxresdefault.jpg)](https://www.youtube.com/watch?v=yNRV7aeu2TE)
+
 Many ABAP colleagues of mine are asking, "I want to prepare for the SAP Business Technology Platform next year. But I do not know where to start. What should I do?"
 
 Do you want to build knowledge about the development of the SAP Business Technology Platform in 2021? This roadmap will help you structure your learning with the SAP Business Technology Platform. It contains topics that you might learn to know SCP well.
