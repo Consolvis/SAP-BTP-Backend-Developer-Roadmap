@@ -34,6 +34,7 @@ TBD
 ## Version Control Systems
 
 TBD
+- [![SAP Cloud Platform Version Control with Git](https://open.sap.com/courses/git1/)
 
 ## Integrated Development Environments
 
@@ -60,6 +61,7 @@ TBD
 ## CI / CD
 
 TBD
+- [![Efficient DevOps with SAP](https://open.sap.com/courses/devops1)
 
 ## Design and Development Principles
 
@@ -84,6 +86,9 @@ TBD
 ## SAP Business Technology Platform Workflow Management
 
 TBD
+- [![Improve Business Processes with SAP Workflow Management](https://open.sap.com/courses/btp2/)
+- [![SAP Developer Tutorials - Mission : Automate and Extend Employee Onboarding](https://developers.sap.com/mission.cp-starter-ibpm-employeeonboarding.html)
+
 
 ## SAP Conversational AI
 
